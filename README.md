@@ -1,6 +1,6 @@
 # agencia_deployment
 
-  Deployment para una agencia de viajes (Proyecto de curso Udemy)
+  Deployment para una agencia de viajes. (Proyecto de curso Udemy)
   Introducción a NodeJS - Creando Un Proyecto con Express, Sequelize, Pug y Bootstrap.
  - [Web application](https://lit-wildwood-06685.herokuapp.com/)
    
